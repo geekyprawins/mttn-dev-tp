@@ -5,8 +5,9 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:study_material_bank/screens/home_page.dart';
 import 'package:study_material_bank/utils/constants.dart';
 
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
   runApp(
     const MySplash(),
   );

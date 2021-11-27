@@ -42,6 +42,8 @@ dependencies:
   # download pdfs
   dio: ^4.0.4
   path_provider: ^2.0.7
+  open_file: ^3.2.1
+
 
   #view pdfs
   syncfusion_flutter_pdfviewer: ^19.3.55-beta
