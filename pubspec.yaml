@@ -46,6 +46,12 @@ dependencies:
   #view pdfs
   syncfusion_flutter_pdfviewer: ^19.3.55-beta
 
+  #splashscreen
+  animated_splash_screen: ^1.1.0
+
+  #styles
+  google_fonts: ^2.1.0
+
 
 
 dev_dependencies:
@@ -63,7 +69,7 @@ dev_dependencies:
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/icon.jpg"
+  image_path: "assets/app-icon.jpg"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -77,8 +83,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+     - assets/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -16,7 +16,7 @@ You will be building a Study Material Bank which hosts all study material (in fo
     - Semester 6
         - Any 3 mock pdfs
 
-IMPORTANT POINTERS:
+### IMPORTANT POINTERS:
 You have the liberty to choose either of the tracks listed below:
 -  build the Front-end client, be it
     - android app (flutter/java/kotlin)
