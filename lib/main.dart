@@ -90,7 +90,7 @@ class LandingPage extends StatelessWidget {
       backgroundColor: Colors.white,
       appBar: AppBar(
         centerTitle: true,
-        backgroundColor: const Color(0xFFC16EE4),
+        backgroundColor: Colors.deepOrange,
         title: Text(
           "Study Time",
           style: GoogleFonts.iceberg(

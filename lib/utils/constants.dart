@@ -3,12 +3,14 @@ import 'package:flutter/cupertino.dart';
 
 const kColor1 = Color(0xFF4D5EA5);
 const kColor2 = Color(0xFFE11961);
+
 const kButtonGradient = LinearGradient(
   colors: [
     Color(0xFFC90FC9),
     Color(0xFF7912EB),
   ],
 );
+
 const kTile1 = LinearGradient(
   colors: [
     Color(0xFFDA3E08),

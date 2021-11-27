@@ -126,11 +126,8 @@ class _SubjectsScreenState extends State<SubjectsScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(
-        0xFF0E0111,
-      ),
       appBar: AppBar(
-        backgroundColor: const Color(0xFFC16EE4),
+        backgroundColor: Colors.deepOrange,
         centerTitle: true,
         title: Text(
           "Select Subject",
