@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184197221114",
+    "project_id": "mttn-dev-tp",
+    "storage_bucket": "mttn-dev-tp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184197221114:android:1faba01648612dc5691743",
+        "android_client_info": {
+          "package_name": "com.praveenvarma.study_material_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184197221114-1nt4p464tgr9bsdh5rmbpdlnpoavioks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_2HDH5ozYFqvK539To3UW_XaE6yhGjQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184197221114-1nt4p464tgr9bsdh5rmbpdlnpoavioks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
