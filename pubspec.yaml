@@ -41,7 +41,9 @@ dependencies:
 
   # download pdfs
   dio: ^4.0.4
+  # get local storage path
   path_provider: ^2.0.7
+  #open files after download
   open_file: ^3.2.1
 
 
@@ -51,8 +53,9 @@ dependencies:
   #splashscreen
   animated_splash_screen: ^1.1.0
 
-  #styles
+  #font styles
   google_fonts: ^2.1.0
+  animated_text_kit: ^4.2.1
 
 
 

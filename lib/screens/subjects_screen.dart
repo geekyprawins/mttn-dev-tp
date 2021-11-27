@@ -11,7 +11,6 @@ import 'package:firebase_storage/firebase_storage.dart' as firebase_storage;
 import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart';
 import 'package:dio/dio.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:path/path.dart';
 
 class SubjectsScreen extends StatefulWidget {
   const SubjectsScreen({
@@ -131,6 +130,7 @@ class _SubjectsScreenState extends State<SubjectsScreen> {
         0xFF0E0111,
       ),
       appBar: AppBar(
+        backgroundColor: const Color(0xFFC16EE4),
         centerTitle: true,
         title: Text(
           "Select Subject",

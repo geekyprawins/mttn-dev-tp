@@ -17,6 +17,7 @@ class _PdfViewScreenState extends State<PdfViewScreen> {
       ),
       appBar: AppBar(
         centerTitle: true,
+        backgroundColor: const Color(0xFFC16EE4),
         title: Text(
           "PDF View",
           style: GoogleFonts.iceberg(
