@@ -75,8 +75,7 @@ https://user-images.githubusercontent.com/75851313/143722490-9d8975bf-0561-4016-
 ![p-8](https://user-images.githubusercontent.com/75851313/143729868-d201d2f6-6cd1-4043-9d72-444a84a6343a.jpg)
     
     
-## Thank you,
-## Praveen Varma.
+## Thank you :)
 
     
 
