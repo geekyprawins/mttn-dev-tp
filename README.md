@@ -53,6 +53,30 @@ Wishing y’all the best of luck!✨
 ## Working Demo
 
 https://user-images.githubusercontent.com/75851313/143722490-9d8975bf-0561-4016-9f47-18771446c3c7.mp4
+    
+### Screenshots
+    
+![p-1](https://user-images.githubusercontent.com/75851313/143729835-27d7ef14-9d21-48e8-a7bd-1a9ceb005b38.jpg)
+    
+![p-2](https://user-images.githubusercontent.com/75851313/143729853-a8302d2a-b835-40eb-be91-3161d9a1f885.jpg)
+    
+![p-3](https://user-images.githubusercontent.com/75851313/143729854-7ccf8899-315e-450d-9d29-b8b5f922e358.jpg)
+
+![p-4](https://user-images.githubusercontent.com/75851313/143729848-9cb1f9f0-1518-4cd7-9eff-b730ce9f1857.jpg)
+
+![p-5](https://user-images.githubusercontent.com/75851313/143729850-6ff5a94b-2101-42a6-9be8-82576a44cb0c.jpg)
+    
+![p-6](https://user-images.githubusercontent.com/75851313/143729857-f78d1d27-b051-4f34-9757-37b662f779fc.jpg)
+    
+![p-7](https://user-images.githubusercontent.com/75851313/143729861-5dbbe83a-fdf8-44b3-af7d-38a4836a27e8.jpg)    
+    
+![p-8](https://user-images.githubusercontent.com/75851313/143729868-d201d2f6-6cd1-4043-9d72-444a84a6343a.jpg)
+
+    
+
+
+
+
 
 
     
