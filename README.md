@@ -1,4 +1,4 @@
-# study_material_bank
+# Study Time
 
 A new Flutter project as a part of Task Phase for Manipal The Talk Network - Dev
 
